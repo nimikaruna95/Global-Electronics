@@ -25,8 +25,11 @@ Problem Statement:The task is to conduct a thorough EDA of the company's dataset
 Approach:
 
 1. Data Cleaning and Preparation:Handle missing values,Convert data types where necessary (e.g., date formats, numerical values),Merge datasets (e.g., linking sales data with product and customer data).
+
 2. Load Data:Insert preprocessed data into an SQL database by creating tables for each dataset,Use SQL INSERT statements to load the data.
+
 3. Power BI/Tableau Visualization:Connect SQL to Power BI/Tableau,Import the cleaned data and build interactive dashboards to visualize insights.
+
 4. Develop SQL Queries:Formulate and execute 10 SQL queries to extract key insights that address business questions.
 
 Analysis Steps:
@@ -34,25 +37,32 @@ Analysis Steps:
 a)Customer Analysis:
 
 i)Demographic Distribution: Analyze customers by gender, age (calculated from birthday), location (city, state, country, continent).
+
 ii)Purchase Patterns: Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
+
 iii)Segmentation: Segment customers based on demographics and purchasing behavior.
 
 b)Sales Analysis:
 
-i)Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality.
+i)Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality.                                             
 ii)Sales by Product: Evaluate which products are top performers based on quantity sold and revenue.
+
 iii)Sales by Store: Assess store performance by comparing sales data.
+
 iv)Sales by Currency: Examine the impact of currency exchange rates on sales.
 
 c)Product Analysis:
 
 i)Product Popularity: Identify the most and least popular products based on sales data.
+
 ii)Profitability Analysis: Calculate profit margins by comparing unit cost and unit price.
+
 iii)Category Analysis: Analyze sales performance across different product categories and subcategories.
 
 d)Store Analysis:
 
 i)Store Performance: Evaluate store performance based on sales, size, and operational data.
+
 ii)Geographical Analysis: Assess sales by store location to identify high-performing regions.
 
 Results:
@@ -60,8 +70,11 @@ Results:
 This result of the project will be the comprehensive EDA report which features
 
 1)Cleaned and integrated datasets.
+
 2)Insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact on sales.
+
 3)Visually compelling dashboards and visualizations that communicate key findings.
+
 4)Actionable recommendations aimed at improving marketing strategies, optimizing inventory management, and guiding decision-making in product development and store expansions.
 
 These insights will empower Global Electronics to enhance customer satisfaction, optimize operations, and drive business growth.
