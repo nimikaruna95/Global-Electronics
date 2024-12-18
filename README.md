@@ -1,6 +1,6 @@
-##DataSpark: Illuminating Insights for Global Electronics
+DataSpark: Illuminating Insights for Global Electronics
 Project Overview
-DataSpark is an exploratory data analysis (EDA) project focused on providing actionable insights for Global Electronics, a leading retailer in the consumer electronics industry. The objective of the project is to clean, preprocess, and analyze various datasets related to customers, products, sales, stores, and currency exchange rates. By uncovering key patterns, trends, and insights, this project aims to enhance customer satisfaction, optimize operations, and drive business growth for Global Electronics.
+*DataSpark is an exploratory data analysis (EDA) project focused on providing actionable insights for Global Electronics, a leading retailer in the consumer electronics industry. The objective of the project is to clean, preprocess, and analyze various datasets related to customers, products, sales, stores, and currency exchange rates. By uncovering key patterns, trends, and insights, this project aims to enhance customer satisfaction, optimize operations, and drive business growth for Global Electronics.
 Skills Gained
 Throughout this project, you will develop proficiency in the following skills:
 Data Cleaning and Preprocessing: Handling missing data, transforming data types, merging datasets.
