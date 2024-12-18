@@ -7,9 +7,13 @@ Skills:
 In this project, you will develop the skills of
 
 i)Data Cleaning and Preprocessing: Handling missing data, transforming data types, merging datasets.
+
 ii)Exploratory Data Analysis (EDA): Identifying trends, patterns, and generating actionable insights.
+
 iii)Python: Implementing data analysis techniques and visualization.
+
 iv)SQL: Data management and query execution to derive key business insights.
+
 v)Power BI/Tableau: Creating interactive and visually appealing dashboards to communicate insights.
 
 Domain:
